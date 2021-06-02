@@ -1,1 +1,1 @@
-# spring-pratica-minhaLojaDeGames
+# minhalojadegames
